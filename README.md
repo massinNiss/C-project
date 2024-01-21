@@ -11,3 +11,6 @@ As a first-year student specializing in Digital Transformation and Artificial En
 In the realm of programming, the C language is renowned for its efficiency and effectiveness, particularly in applications where performance and security are non-negotiable. Our choice to use C for developing a bank account management application is driven by these exact requirements.
 
 C's prowess lies in its ability to offer precise control over memory and system resources, a critical factor when handling sensitive financial data. This level of control, combined with C's capability to operate closely with hardware, positions our application to deliver optimized performance. This is essential for ensuring not only smooth banking operations but also the highest levels of data security and reliability.
+
+# NB
+The default ID and password for the administrator are: {id:6666, password:massin}
