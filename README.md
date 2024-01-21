@@ -4,7 +4,7 @@ The project for managing bank accounts in the C language aims to create a simple
 
 By utilizing the C language, one can leverage its robustness to implement advanced encryption features, ensuring the confidentiality of customer information. Additionally, its speedy execution allows for the efficient processing of a large volume of transactions in real-time, providing a smooth and responsive user experience.
 
-#Context
+# Context
 
 As a first-year student specializing in Digital Transformation and Artificial Engineering at the National School of Applied Sciences in Al Hoceima, I am excited to present our computer project, which focuses on bank account management. This project is not just an academic exercise but a step towards understanding and implementing real-world digital solutions in the finance sector.
 
