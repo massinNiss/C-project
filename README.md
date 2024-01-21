@@ -6,7 +6,7 @@ By utilizing the C language, one can leverage its robustness to implement advanc
 
 # Context
 
-As a first-year student specializing in Digital Transformation and Artificial Engineering at the National School of Applied Sciences in Al Hoceima, I am excited to present our computer project, which focuses on bank account management. This project is not just an academic exercise but a step towards understanding and implementing real-world digital solutions in the finance sector.
+As a first-year student specializing in Digital Transformation and Artificial Engineering at the National School of Applied Sciences in Al Hoceima, I am excited to present our computer project, which focuses on bank account management. This project is not just an academic exercise but a step towards understanding and implementing real-world digital solutions .
 
 In the realm of programming, the C language is renowned for its efficiency and effectiveness, particularly in applications where performance and security are non-negotiable. Our choice to use C for developing a bank account management application is driven by these exact requirements.
 
