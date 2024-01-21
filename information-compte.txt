@@ -1,0 +1,3 @@
+Id: 6659 || Password: 229395142769617 || Nom : massin || Prénom : nis || CIN : d123456 || Num-Telephone: 123456 || Solde: 2700.000000 || type_compte : COURANT || State = Activate
+Id: 6659 || Password: 6953774194928 || Nom : massin || Prénom : nis || CIN : 1234567 || Num-Telephone: 234567 || Solde: 100700.000000 || type_compte : ETUDIANT || State = Activate
+Id: 7932 || Password: 229395142769617 || Nom : oouabou || Prénom : houcam || CIN : D345 || Num-Telephone: 234567 || Solde: 1000.00 || type_compte : COURANT || State =  Activate
